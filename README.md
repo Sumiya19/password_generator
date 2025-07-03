@@ -19,9 +19,8 @@ This is a **modern, responsive Password Generator** application built using **Py
 ---
 
 ## 🖥️ GUI Preview
+![Screenshot 2025-07-03 141207](https://github.com/user-attachments/assets/a301ee4c-12d7-4181-846d-0bd621cca80d)
 
-![Password Generator GUI](https://via.placeholder.com/600x300?text=Password+Generator+GUI+Preview)  
-*(Replace with actual screenshot if available)*
 
 ---
 
